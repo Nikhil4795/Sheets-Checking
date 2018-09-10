@@ -8,7 +8,7 @@
     
     Description :
     
-    Checking whether two sheets are equal or not,
+    Checks whether two sheets are equal or not,
     if not, then shows the differences b/w two input sheets in two output sheets.
 
     ie.., it shows the data from sheet_1 and data from sheet_2 in seperate cells with
